@@ -14,16 +14,7 @@ Construyo proyectos reales mientras avanzo hacia el desarrollo fullstack con Con
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 📚 Aprendiendo ahora
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-## 📂 Proyectos
-
-- 🌐 [Portfolio](https://mi-portfolio-omega-seven.vercel.app)
-- 📘 [Proyectos ConquerBlocks](https://github.com/gerhardsaavedra/conquerblocks-projects)
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerhard-ediver-saavedra-pretell-30aa60408)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gerhard-ediver-saavedra-pretell-30aa60408](https://www.linkedin.com/in/gerhard-saavedra-30aa60408/))

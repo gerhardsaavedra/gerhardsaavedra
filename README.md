@@ -17,4 +17,4 @@ Construyo proyectos reales mientras avanzo hacia el desarrollo fullstack con Con
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gerhard-ediver-saavedra-pretell-30aa60408](https://www.linkedin.com/in/gerhard-saavedra-30aa60408/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerhard-saavedra-30aa60408/)

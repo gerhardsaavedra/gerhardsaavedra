@@ -8,6 +8,10 @@ I'm building my skills as a frontend developer with HTML, CSS, and JavaScript, w
 * CSS
 * JavaScript
 
+## Currently
+
+Building my personal portfolio website with HTML, CSS and JavaScript to showcase my projects.
+
 ## What I'm Looking For
 
 I'm looking for my first junior developer position, preferably in a remote team.

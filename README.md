@@ -24,5 +24,5 @@ I'm looking for my first junior developer position, preferably in a remote team.
 
 ## Contact
 
-* Email: [Mail](mailto:gerhard.saavedra0@gmail.com)
-* LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/gerhard-saavedra-30aa60408/)
+* Email: [gerhard.saavedra0@gmail.com](mailto:gerhard.saavedra0@gmail.com)
+* LinkedIn: [gerhard-saavedra](https://www.linkedin.com/in/gerhard-saavedra-30aa60408/)

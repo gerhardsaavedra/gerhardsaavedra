@@ -10,7 +10,7 @@ I'm building my skills as a frontend developer with HTML, CSS, and JavaScript, w
 
 ## Currently
 
-Working on my web portfolio.
+Building my personal portfolio website with HTML, CSS and JavaScript to showcase my projects.
 
 ## What I'm Looking For
 
